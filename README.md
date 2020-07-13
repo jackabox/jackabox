@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+I'm Jack, a Freelance Web Developer working with PHP/JavaScript. You can find me on [twitter](https://twitter.com/jackabox) or writing on my [website](https://jackwhiting.co.uk).
 
 <!--
 **jackabox/jackabox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
